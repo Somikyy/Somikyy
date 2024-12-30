@@ -21,8 +21,8 @@ I am a beginner Java developer specializing in creating plugins for Minecraft (v
 ---
 
 ## 📫 Contact Me:
-- **Email:** example@gmail.com  
-- **Discord:** username#1234  
+- **Telegram:** @LayBalt
+- **Discord:** somikyy
 
 ## 🌍 Languages:
 🇬🇧 English | 🇫🇷 French | 🇷🇺 Russian
