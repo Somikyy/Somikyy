@@ -1,6 +1,6 @@
 # Hello! 👋
 
-![Banner](https://via.placeholder.com/800x200?text=Welcome+to+Somikyy's+GitHub+Profile)
+![Banner](./somikyy_github_banner)
 
 I am a beginner Java developer specializing in creating plugins for Minecraft (version 1.20.4). I am also interested in cybersecurity and Discord bot development.
 
