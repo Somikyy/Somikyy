@@ -26,9 +26,6 @@ I am a beginner Java developer specializing in creating plugins for Minecraft (v
 - **Telegram:** @LayBalt
 - **Discord:** somikyy
 
-## 🌍 Languages:
-🇬🇧 English | 🇫🇷 French | 🇷🇺 Russian
-
 ---
 
 ## 📊 GitHub Stats:
