@@ -24,4 +24,4 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=ваш_ник&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=somikyy&color=blue&style=flat)
