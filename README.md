@@ -38,11 +38,3 @@ I am a beginner Java developer specializing in creating plugins for Minecraft (v
 ⭐️ Don't forget to star my projects if you like them!
 
 ![](https://komarev.com/ghpvc/?username=somikyy&color=blue&style=flat)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somikyy&layout=compact&theme=radical)
-
----
-
-⭐️ Don't forget to star my projects if you like them!
-
-![](https://komarev.com/ghpvc/?username=somikyy&color=blue&style=flat)
