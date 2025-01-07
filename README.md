@@ -2,7 +2,7 @@
 
 ![Banner](./somikyy_github_banner.png)
 
-I am a beginner Java developer specializing in creating plugins for Minecraft (version 1.20.4). I am also interested in cybersecurity and Discord bot development.
+I am a beginner Java developer specializing in creating plugins for Minecraft (version 1.16.5-1.20.4). I am also interested in cybersecurity and Discord bot development.
 
 ## 🚀 About My Skills:
 - **Programming Languages:** Java, Python, HTML, CSS, JavaScript  
